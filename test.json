@@ -1,0 +1,51 @@
+{
+  "session": {
+    "new": true,
+    "sessionId": "SessionId.866e87e8-8521-4e67-a6b3-23bda5cd278f",
+    "application": {
+      "applicationId": "amzn1.ask.skill.10d44503-fe2d-43b8-aad1-414851d540a0"
+    },
+    "attributes": {
+      "string": {}
+    },
+    "user": {
+      "userId": "amzn1.ask.account.AGWKNF2NJQXSNSZW46VGW24RIOVWD7I4GJPETRMMCHQKUZFRMY6TP6U2QF5U72FJCYMOXM5NPD5VNMYVA63XX5ILBOM6YFLKRGDLK2DPLEUAKXLR7UX7KDH2HNELSPYKA5ZW5YA6HGCKIJVUWA2SBHXS2HKNMFDIXAWOO53HFSB4Q4FLCJ5VYUHAZ5535KYYWEPWDUB3XHPQH4A"
+    },
+    "request": {
+      "type": "IntentRequest",
+      "requestId": "EdwRequestId.50819374-2648-4f5d-b84a-c69d0a4df4dc",
+      "intent": {
+        "name": "DisputeResolverIntent",
+        "slots": {
+          "task": {
+            "name": "task",
+            "value": "take out the trash"
+          },
+          "name": {
+            "name": "name",
+            "value": "corentin paul louis"
+          }
+        }
+      },
+      "locale": "en-GB",
+      "timestamp": "2017-08-17T23:11:35Z"
+    },
+    "context": {
+      "AudioPlayer": {
+        "playerActivity": "IDLE"
+      },
+      "System": {
+        "application": {
+          "applicationId": "amzn1.ask.skill.10d44503-fe2d-43b8-aad1-414851d540a0"
+        },
+        "user": {
+          "userId": "amzn1.ask.account.AGWKNF2NJQXSNSZW46VGW24RIOVWD7I4GJPETRMMCHQKUZFRMY6TP6U2QF5U72FJCYMOXM5NPD5VNMYVA63XX5ILBOM6YFLKRGDLK2DPLEUAKXLR7UX7KDH2HNELSPYKA5ZW5YA6HGCKIJVUWA2SBHXS2HKNMFDIXAWOO53HFSB4Q4FLCJ5VYUHAZ5535KYYWEPWDUB3XHPQH4A"
+        },
+        "device": {
+          "supportedInterfaces": {}
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
